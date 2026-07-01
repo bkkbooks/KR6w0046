@@ -1,0 +1,232 @@
+canonical_identifier: bkk:krp/KR6w0046/v1
+canonical_location: https://kanripo.org/bkk/KR6w0046/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 特賜興禪大燈國師參詳語要
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/D/D46/D46n8930.xml
+    old_id: D46n8930
+  edition:
+    short: bkk
+editions:
+- short: 國圖
+  label: 國圖
+  source_xml_id: wit.orig
+- short: D
+assets:
+  parts:
+  - {seq: 0, filename: KR6w0046_000.yaml, hash: 'sha256:a214eb02f3066b64abe07eb4f6228fb58fda0f01521b389bdfaa8593e918fb34'}
+  - {seq: 1, filename: KR6w0046_001.yaml, hash: 'sha256:9fa0fdcb260d966d44a54d778bbf60b562c85edde625695a355d0f4cc601c639'}
+  - {seq: 2, filename: KR6w0046_002.yaml, hash: 'sha256:5cb6316aaf02ffbd36fdc2a32a62b478a84698e3ac247e1f592a69703f5ff491'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6w0046_000.markers.yaml, hash: 'sha256:bcf09031b2285f63a27f68662bb1eb35dc9ed49521304b58eba06127fcb2e24f'}
+  - {seq: 1, role: markers, filename: assets/KR6w0046_001.markers.yaml, hash: 'sha256:ac16d81c47feb6a5e92a85879d42d6259724d9ed1cc5d898761f8f8a3e0864b4'}
+  - {seq: 2, role: markers, filename: assets/KR6w0046_002.markers.yaml, hash: 'sha256:9a80784f0501dc082f96d0b9677b35dd9dbb8117e39023f95fcfad2d4362c4e3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6w0046_D_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 崇福語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0046_D_000-mulu-2
+    span:
+    - front
+    - 2151
+    - 2151
+  label: 拈古
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0046_D_000-mulu-3
+    span:
+    - front
+    - 3074
+    - 3074
+  label: 頌古
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6w0046_D_000-mulu-4
+    span:
+    - front
+    - 7139
+    - 7139
+  label: 參詳語要一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0046_D_001-juan-start
+    span:
+    - body
+    - 0
+    - 15113
+  label: 特賜興禪大燈國師參詳語要一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0046_D_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 雪竇語錄中事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0046_D_001-mulu-2
+    span:
+    - body
+    - 5193
+    - 5193
+  label: 舉古
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0046_D_001-mulu-3
+    span:
+    - body
+    - 6377
+    - 6377
+  label: 勘辨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0046_D_001-mulu-4
+    span:
+    - body
+    - 9300
+    - 9300
+  label: 後錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6w0046_D_001-mulu-5
+    span:
+    - body
+    - 15113
+    - 15113
+  label: 參詳語要二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0046_D_002-juan-start
+    span:
+    - body
+    - 0
+    - 18880
+  label: 特賜興禪大燈國師參詳語要二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0046_D_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 雪竇語錄中事
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0046_D_002-mulu-2
+    span:
+    - body
+    - 9969
+    - 9969
+  label: 拈古
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0046_D_002-mulu-3
+    span:
+    - body
+    - 11670
+    - 11670
+  label: 室中㪯古
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0046_D_002-mulu-4
+    span:
+    - body
+    - 13711
+    - 13711
+  label: 勘辨
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0046_D_002-mulu-5
+    span:
+    - body
+    - 14723
+    - 14723
+  label: 雪峰和尚塔銘(并序)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0046_D_002-mulu-6
+    span:
+    - body
+    - 14909
+    - 14909
+  label: 雪竇傳法賜紫　　重顯　註
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0046_D_002-mulu-7
+    span:
+    - body
+    - 15154
+    - 15154
+  label: 受師號上堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0046_D_002-mulu-8
+    span:
+    - body
+    - 15567
+    - 15567
+  label: 行狀
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6w0046_D_002-mulu-9
+    span:
+    - body
+    - 18797
+    - 18797
+  label: 再刊記
+  type: mulu
+  level: 1
+hash: sha256:86b4d22580ae49c707f0e1d632bfc5bb78bd2be865c97e13551be8a2f903c445
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
