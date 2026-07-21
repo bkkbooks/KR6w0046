@@ -19,11 +19,11 @@ metadata:
     short: D
 assets:
   parts:
-  - {seq: 0, filename: KR6w0046_000-D.yaml, hash: 'sha256:02e4be150529981076937cd888167a37317bed7f2a636eea22ae0a58395daa58'}
+  - {seq: 0, filename: KR6w0046_000-D.yaml, hash: 'sha256:a1bd13ee1ca6b3f3ce6c408022374db3317fa739f80eb2cd6fa32991da2006dd'}
   - {seq: 1, filename: KR6w0046_001-D.yaml, hash: 'sha256:5c69cf2e1fb20266dc406758b0b59e6665c7a13141a4208618bb9c177be8bc82'}
   - {seq: 2, filename: KR6w0046_002-D.yaml, hash: 'sha256:fd0f897a489ba4f1971897535645aa5c60c6b5e3920604a62e9ab2dab4bbb3a0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6w0046_000-D.markers.yaml, hash: 'sha256:4ad3832f4acaa617eedda6265bc85c9cd76e8f9566927ee1ce1d7bc7c1644c0f'}
+  - {seq: 0, role: markers, filename: assets/KR6w0046_000-D.markers.yaml, hash: 'sha256:7081e794cb361af5f13d3a8856e16bc6031f6049273d64588e52d0b48b520470'}
   - {seq: 1, role: markers, filename: assets/KR6w0046_001-D.markers.yaml, hash: 'sha256:9b47166b04b860ddbad40afe1831f3d1525949004c418752cd4d2909751ce768'}
   - {seq: 2, role: markers, filename: assets/KR6w0046_002-D.markers.yaml, hash: 'sha256:044ded8dcb5fa16ce2b7633b6e220226fb7a730a2cf1254f78b8954de2e00510'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0046_D_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 崇福語錄
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0046_D_000-mulu-2
     span:
-    - front
+    - body
     - 2151
     - 2151
   label: 拈古
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0046_D_000-mulu-3
     span:
-    - front
+    - body
     - 3074
     - 3074
   label: 頌古
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6w0046_D_000-mulu-4
     span:
-    - front
+    - body
     - 7139
     - 7139
   label: 參詳語要一
@@ -227,4 +227,4 @@ table_of_contents:
   label: 再刊記
   type: mulu
   level: 1
-hash: sha256:1747e4a5278a4becc0c8b8a29896cb90786d3a9e1a599ff80a060c1b0807d036
+hash: sha256:1f273f41cc43718be6f3991c95e9f1a1502eef4b8cb04d1d77e71d9f5969fc36
